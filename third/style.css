@@ -3,6 +3,11 @@ html, body {
 	margin: 0;
 }
 
+p {
+	font-style: Arial;
+	font-size: 18px;
+}
+
 .top {
 	background: #E6E6E6;
 	width: 100%;
@@ -22,6 +27,9 @@ html, body {
 	width: 100%;
 	height: 150px;
 	clear: both;
+	text-align: center;
+	box-sizing: border-box;
+	padding: 20px;
 }
 
 .third {
