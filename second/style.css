@@ -1,0 +1,36 @@
+html, body {
+	width: 100%;
+	margin: 0;
+}
+
+.left {
+	background: #2E9AFE;
+	float: left;
+	width: 33.333%;
+	height: 800px;
+}
+
+.middle {
+	background: #2EFEC8;
+	float: left;
+	width: 33.333%;
+	height: 800px;
+}
+
+.right {
+	float: left;
+	height: 800px;
+	width: 33.333%;
+}
+
+	.topright {
+		background: #A9F5A9;
+		height: 600px;
+		width: 100%;
+	}
+
+	.bottomright {
+		background: #FF0000;
+		height: 200px;
+		width: 100%;
+	}
